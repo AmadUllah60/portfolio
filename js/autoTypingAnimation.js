@@ -1,7 +1,7 @@
 setTimeout(function() {
     $('.about-info-inner').typed({
       strings: [
-        "<span>Hi, I am Golam Morsed</span> Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit eius officia ea ut vonsectetur adipisicing elit. Illo voluptatum iste, tempora rem obcaecati omnis delectus sunt, consequuntur, et ut quasi aperiam assumenda! <br><br> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex beatae reprehenderit vero maiores dignissimos error vitae, optio inventore explicabo quia officiis magni delectus? Lorem ipsum dolor, sit amet consectetur"
+        "<span>Hi, I am Amad Ullah</span> I am a dedicated and versatile Full Stack Developer</br> with a strong background in creating end-to-end web solutions. I specialize in developing robust, user-friendly, and high-performance web applications that cater to a wide range of industries and needs."
       ],
       typeSpeed: 7,
       contentType: 'html'
