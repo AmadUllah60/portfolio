@@ -305,7 +305,7 @@ img{
 .section-title{
     padding: 0 15px;
     flex: 0 0 100%;
-    max-height: 100%;
+    /* max-height: 100%; */
     text-align: center;
     margin-bottom: 50px;
 }
@@ -902,7 +902,7 @@ img{
 
 .service-section{
     padding: 80px 0px 80px;
-    min-height: 100vh;
+    /* min-height: 100vh; */
 }
 
 .service-section .service-item{
@@ -992,8 +992,8 @@ img{
 
 /***** portfolio section *****/
 .portfolio-section{
-    padding: 80px 0 80px;
-    min-height: 100vh;
+    /* padding: 80px 0 80px; */
+    /* min-height: 100vh; */
 
 }
 
@@ -1378,7 +1378,6 @@ body > div.pp.portfolio-popup.open > div.pp-details.active > div > div.pp-title 
 
 .contact-section{
     padding: 80px 0 80px;
-    min-height: 100vh;
     padding: 15px;
 }
 
